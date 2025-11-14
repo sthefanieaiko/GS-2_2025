@@ -53,7 +53,7 @@ static TaskHandle_t g_task_superv = NULL;
 /* lista de redes seguras (pode ser atualizada em runtime) */
 static const char *initial_secure_list[] = {
     "CORP_OFFICE_WIFI",
-    "HEINEKEN_GUEST",
+    "RICARDO_GUEST",
     "HOME_SSID_01",
     "OFFICE-PRIVATE",
     "STHEFANIE_AIKO_NET"
