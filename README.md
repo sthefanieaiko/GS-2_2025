@@ -29,3 +29,14 @@ timeout, WDT, alocação de memória dinâmica, estratégia de
 recuperação))
 - Registro simples de log (ex.: print) quando um alerta for
 gerado
+
+<img width="1252" height="923" alt="image" src="https://github.com/user-attachments/assets/3d688282-0004-4da3-be90-f253819668a8" />
+<img width="1251" height="916" alt="image" src="https://github.com/user-attachments/assets/8f3eb937-5150-4b77-8608-46e4450c26e3" />
+<img width="1237" height="404" alt="image" src="https://github.com/user-attachments/assets/6ae0ca00-0704-4270-ad9b-a2f66b6ad970" />
+<img width="1248" height="918" alt="image" src="https://github.com/user-attachments/assets/2dae47bc-0b98-4d8a-897f-685b7e68d831" />
+<img width="1255" height="886" alt="image" src="https://github.com/user-attachments/assets/55308cfb-7284-452d-a238-c033a5bb5ea6" />
+<img width="1075" height="564" alt="image" src="https://github.com/user-attachments/assets/3fc403bb-7bb4-4af7-b1b0-180d8d258523" />
+
+
+
+
